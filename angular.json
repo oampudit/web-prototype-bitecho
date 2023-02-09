@@ -16,7 +16,7 @@
             "outputPath": "dist/demo",
             "index": "src/index.html",
             "main": "src/main.ts",
-            "assets": [],
+            "assets": ["src/logo.png"],
             "styles": ["src/global_styles.css"],
             "scripts": []
           },
